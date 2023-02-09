@@ -10,7 +10,7 @@ body{
     height: 100%;
 }
 #controls{
-    background: #AAA;
+    background: #c9d7d8;
     padding: 5px;
 }
 #c {
@@ -19,7 +19,7 @@ body{
     display: block;
 }
 .gutter{
-    background-color: #eee;
+    background-color: #A0ACAD;
     background-repeat: no-repeat;
     background-position: 50%;
 }
